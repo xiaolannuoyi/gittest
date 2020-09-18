@@ -14,4 +14,3 @@
 | ci       | 更改持续集成软件的配置文件和package中的scripts命令，例如scopes: Travis, Circle等 |
 | chore    | 变更构建流程或辅助工具                                       |
 | revert   | 代码回退                                                     |
-
